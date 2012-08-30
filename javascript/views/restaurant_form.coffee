@@ -1,0 +1,1 @@
+class Gourmet.Views.RestaurantForm extends Backbone.View
